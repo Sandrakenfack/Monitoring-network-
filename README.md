@@ -1,5 +1,5 @@
 #  Moi, c'est Sandra KENFACK DONGMO
-### ☁️ Ingénieure Systèmes, Réseaux & Cloud | Experte Automatisation
+### Ingénieure Systèmes, Réseaux & Cloud | Experte Automatisation
 
 Je suis une **Ingénieure IT** passionnée par l'architecture des systèmes et l'optimisation des infrastructures Cloud. Mon parcours m'a permis de gérer des environnements critiques (notamment chez **Air France**) où j'ai allié rigueur technique et gestion de projets stratégiques.
 
@@ -22,7 +22,7 @@ Voici un aperçu des projets clés que j'ai menés, illustrant ma capacité à c
 - **Focus** : Cloud Computing, PCA/PRA, Cybersécurité.
 - [Voir le dossier technique](https://sandrakenfack.github.io/projet1.pdf)
 
-### 🤖 [Installation d'un Assistant IA (Démo Vidéo)](https://sandrakenfack.github.io/#assistant-ia)
+### [Installation d'un Assistant IA (Démo Vidéo)](https://sandrakenfack.github.io/#assistant-ia)
 *Mise en place d'une solution d'automatisation intelligente.*
 - **Focus** : Intelligence Artificielle, Prompt Engineering.
 - [▶️ Regarder la démonstration](https://sandrakenfack.github.io/projet4.mp4)
